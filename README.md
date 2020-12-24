@@ -36,7 +36,7 @@
 <h2 align="center">Kano MDM features</h2>
 <p>Kano MDM is an efficient master data management solution with a complete set of features.</p>
 <p align="center">
- <img src="https://github.com/Kanosoftware/Kano-MDM-information/blob/main/Prez_ready_En1-1024x926.png" width="500" hight="400">
+ <img src="https://github.com/Kanosoftware/Kano-MDM-information/blob/main/Prez_ready_En1-1024x926.png" width="300" hight="300">
 </p>
 <p><li><strong>Domains:</strong></li>
 Kano MDM works with Data in an unlimited number of various domains, with any amount of entities in each of them. Besides, there is an option to set up relationships between the parts of various domains. Depending on implementation style Kano MDM can be either the master system or retrieve data changes from external systems and propagate them downstream.</p>
