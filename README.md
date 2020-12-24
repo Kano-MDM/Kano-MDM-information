@@ -15,18 +15,17 @@
 <p>Kano MDM provides a flexible master data access management at the catalog, entity, attribute, and column level, enables historical records with all the necessary information, administration console for Data Stewards. On the organization level, Kano MDM  enables and revitalizes data workflows and fully supports corporate Data Management projects.</p>
 
 <h2 align="center">Why Kano MDM</h2>
-<lu>
- <li>Integration</li>
+-**Integration**
 Kano  MDM  can be integrated with any applications and data sources inside and outside of the organization.
-<li>Performance</li>
+-**Performance**
 Kano MDM is based on InterSystems Data Platforms that can handle big data and has proven performance, reliability, and scalability.
-<li>Security</li>
+-**Security**
 Permissions for record access and modification are fully customizable up to and including Row-Level and Column-Level security. Kano MDM supports data versioning to ensure none of the data is lost or damaged.
-<li>Flexibility</li> 
+-**Flexibility**
 Kano MDM combines the support of multiple master data domains, implementation styles with customizable and extensible workflows, and integration components.
-<li>Implementation styles</li>
+-**Implementation styles**
 Kano  MDM  supports all classic implementation styles. Hybrid implementation styles are also possible to fulfill specific business needs.
-<li>Cost-efficiency</li>
+-**Cost-efficiency**
 Being a unified platform for master data management, Kano MDM dramatically reduces implementation and maintenance costs.
 
 <h2 align="center">Kano MDM features</h2>
