@@ -15,44 +15,45 @@
 <p>Kano MDM provides a flexible master data access management at the catalog, entity, attribute, and column level, enables historical records with all the necessary information, administration console for Data Stewards. On the organization level, Kano MDM  enables and revitalizes data workflows and fully supports corporate Data Management projects.</p>
 
 <h2 align="center">Why Kano MDM</h2>
--**Integration**
+<lu>
+<strong>1. Integration</strong>
 Kano  MDM  can be integrated with any applications and data sources inside and outside of the organization.
--**Performance**
+<strong>2. Performance</strong>
 Kano MDM is based on InterSystems Data Platforms that can handle big data and has proven performance, reliability, and scalability.
--**Security**
+<strong>3. Security</strong>
 Permissions for record access and modification are fully customizable up to and including Row-Level and Column-Level security. Kano MDM supports data versioning to ensure none of the data is lost or damaged.
--**Flexibility**
+<strong>4. Flexibility</strong>
 Kano MDM combines the support of multiple master data domains, implementation styles with customizable and extensible workflows, and integration components.
--**Implementation styles**
+<strong>5. Implementation styles</strong>
 Kano  MDM  supports all classic implementation styles. Hybrid implementation styles are also possible to fulfill specific business needs.
--**Cost-efficiency**
+<strong> 6. Cost-efficiency</strong>
 Being a unified platform for master data management, Kano MDM dramatically reduces implementation and maintenance costs.
 
 <h2 align="center">Kano MDM features</h2>
 Kano MDM is an efficient master data management solution with a complete set of features.
 
-<li>Domains:</li>
+<li><strong>Domains:</strong></li>
 Kano MDM works with Data in an unlimited number of various domains, with any amount of entities in each of them. Besides, there is an option to set up relationships between the parts of various domains. Depending on implementation style Kano MDM can be either the master system or retrieve data changes from external systems and propagate them downstream.
  
-<li>Web UI:</li>
+<li><strong>Web UI:</strong></li>
 Kano MDM Web UI allows Data Stewards to create a Data Model of any complexity. Default visual representations of data are generated automatically and can be further modified to suit business needs without coding. Additionally, as soon as Domain is created related Data Entry functionality becomes available for users. Kano MDM supports not only multi-language UI but also multi-language data and metadata.
  
-<li>Integration:</li>
+<li><strong>Integration:</strong></li>
 “Ready to use” APIs provide bi-directional data exchange with any external applications and data sources via Web- and REST-services, xDBC, or any other integration adapter. Kano MDM supports different types of publish-subscribe flows: subscription by catalog, key, or record. Built-in API Gateway allows for flexible API Management simplifying services consumption management and other API related tasks.
  
-<li>Data Quality:</li>
+<li><strong>Data Quality:</strong></li>
 Kano MDM leverages Machine Learning algorithms for automatic duplicate detection in existing and new data. Implemented predictive models are fine-tuned for each individual customer to provide insights and automation for data matching and associated data cleansing tasks.
  
-<li>Data Stewardship:</li>
+<li><strong>Data Stewardship:</strong></li>
 All Data changes go through customizable approval processes. Each approval process is composed of multiple parallel or sequential stages. For all changes “one request – one change” rule is applied meaning that each change is controlled by the dedicated approval process. Kano MDM supports many utility features: task notifications, automatic actions, time constraints, etc.
  
-<li>Analytics:</li>
+<li><strong>Analytics:</strong></li>
 Built-in OLAP functionality enables analytical dashboards creation based on Kano MDM domain data and usage data. Kano MDM provides a set of system dashboards: most used data, data quality, etc.
  
-<li>Security:</li>
+<li><strong>Security:</strong></li>
  Intelligent security provides different views for different roles. Kano MDM allows finetuning user's access to domains, catalogs, individual records, and attributes.
  
-<li>Audit:</li>
+<li><strong>Audit:</strong></li>
 Kano MDM implements detailed audit: all actions with data and metadata are stored in MDM changelog. Additionally, Kano MDM provides data versioning to ensure none of the business data is lost or damaged. Integration monitoring allows data stewards to see the data flow from source systems into Kano MDM and into target systems.
 
 <p>Kano MDM solution provides a set of features designed to consolidate, cleanse, govern, and share the data across the enterprise. Clean, consolidated, and accurate master data published and consumed rapidly and easily across the organization can save millions of dollars per year. Such master data is a key to chain and sales efficiencies, customer loyalty improvement, and reliable corporate governance.</p>
