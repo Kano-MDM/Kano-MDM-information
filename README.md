@@ -17,7 +17,7 @@
 
 <h2 align="center">Why Kano MDM</h2>
 <lu>
-<p><h3><strong>1. Integration</strong></h3>
+<p><strong>1. Integration</strong>
 <br>Kano  MDM  can be integrated with any applications and data sources inside and outside of the organization.</br></p>
 <p><strong>2. Performance</strong>
 <br>Kano MDM is based on InterSystems Data Platforms that can handle big data and has proven performance, reliability, and scalability.</br></p>
