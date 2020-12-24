@@ -1,3 +1,4 @@
+<h2 align="center">What is Kano MDM</h2>
 <p>Kano MDM is a modern Master Data Management software product, with an extensive set of features for a successful implementation of complex MDM projects. It enables a single view of entities such as customers, patients, providers, members, citizens, locations, etc to be shared and updated - ensuring accurate data is leveraged across all business processes.</p>
 
 <p>The combination of Kano MDM benefits and powerful, reliable analytical tools, turns disparate data into a strategic resource of the enterprise.</p>
@@ -56,6 +57,7 @@ Built-in OLAP functionality enables analytical dashboards creation based on Kano
 <p><li><strong>Audit:</strong></li>
 Kano MDM implements detailed audit: all actions with data and metadata are stored in MDM changelog. Additionally, Kano MDM provides data versioning to ensure none of the business data is lost or damaged. Integration monitoring allows data stewards to see the data flow from source systems into Kano MDM and into target systems.</p>
 
+<h2 align="center">Summary</h2>
 <p>Kano MDM solution provides a set of features designed to consolidate, cleanse, govern, and share the data across the enterprise. Clean, consolidated, and accurate master data published and consumed rapidly and easily across the organization can save millions of dollars per year. Such master data is a key to chain and sales efficiencies, customer loyalty improvement, and reliable corporate governance.</p>
 
 <p>Whether you are looking to improve customer experience, re-design service delivery, support regulatory reporting, identify fraud and errors, streamline sales or deliver more targeted marketing, it is essential to ensure these processes are underpinned by accurate, complete, and available-on-time data.</p>
