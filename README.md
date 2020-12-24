@@ -3,8 +3,9 @@
 
 <p>The combination of Kano MDM benefits and powerful, reliable analytical tools, turns disparate data into a strategic resource of the enterprise.</p>
 
- <p>Kano MDM supports 4 foundational implementation styles: 
- <img src="https://github.com/Kanosoftware/Kano-MDM-information/blob/main/Enterprise0.png" align="right" width="600" hight="400" >
+ <p>Kano MDM supports 4 foundational implementation styles: <img src="https://github.com/Kanosoftware/Kano-MDM-information/blob/main/Enterprise0.png" align="right" width="600" hight="400" >
+ <br>
+ <br>
 <lu>
 <li>Registry</li>  
 <li>Consolidation</li> 
