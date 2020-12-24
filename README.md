@@ -33,7 +33,7 @@
 <p><strong> 6. Cost-efficiency</strong>
 <br>Being a unified platform for master data management, Kano MDM dramatically reduces implementation and maintenance costs.</br></p>
 
-<h2 align="center">Kano MDM features</h2><img src="https://github.com/Kanosoftware/Kano-MDM-information/blob/main/Prez_ready_En1-1024x926.png" align="right" width="500" hight="400">
+<h2 align="center">Kano MDM features</h2><img align="center" src="https://github.com/Kanosoftware/Kano-MDM-information/blob/main/Prez_ready_En1-1024x926.png" width="500" hight="400">
 <p>Kano MDM is an efficient master data management solution with a complete set of features.</p>
 
 <p><li><strong>Domains:</strong></li>
