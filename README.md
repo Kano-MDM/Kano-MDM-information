@@ -2,17 +2,19 @@
 
 <p>The combination of Kano MDM benefits and powerful, reliable analytical tools, turns disparate data into a strategic resource of the enterprise.</p>
 
- <p>##**Kano MDM supports 4 foundational implementation styles:**</p>
-*Registry 
-*Consolidation
-*Coexistence 
-*Centralized
+ <p>Kano MDM supports 4 foundational implementation styles:</p>
+<lu>
+<li>Registry</li> 
+<li>Consolidation</li> 
+<li>Coexistence</li> 
+<li>Centralized</li> 
+ </lu>
 
 The components of Kano MDM provide access to information from various sources, data profiling, verification and standardization of information, saturation from external sources, control over compliance with rules and monitoring data quality trends, and creating links.
 
 Kano MDM provides a flexible master data access management at the catalog, entity, attribute, and column level, enables historical records with all the necessary information, administration console for Data Stewards. On the organization level, Kano MDM  enables and revitalizes data workflows and fully supports corporate Data Management projects. 
 
-<h1 align="center">Why Kano MDM</h1>
+<h3 align="center">Why Kano MDM</h3>
 ######**Integration**
 Kano  MDM  can be integrated with any applications and data sources inside and outside of the organization.
 ######**Performance**
@@ -26,7 +28,7 @@ Kano  MDM  supports all classic implementation styles. Hybrid implementation sty
 ######**Cost-efficiency**
 Being a unified platform for master data management, Kano MDM dramatically reduces implementation and maintenance costs.
 
-<h1 align="center">Kano MDM features</h1>
+<h3 align="center">Kano MDM features</h3>
 Kano MDM is an efficient master data management solution with a complete set of features.
 
 ######**Domains:**
