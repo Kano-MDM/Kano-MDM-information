@@ -2,9 +2,8 @@
 <p>Kano MDM is a modern Master Data Management software product, with an extensive set of features for a successful implementation of complex MDM projects. It enables a single view of entities such as customers, patients, providers, members, citizens, locations, etc to be shared and updated - ensuring accurate data is leveraged across all business processes.</p>
 
 <p>The combination of Kano MDM benefits and powerful, reliable analytical tools, turns disparate data into a strategic resource of the enterprise.</p>
-
- <p>Kano MDM supports 4 foundational implementation styles: <img src="https://github.com/Kanosoftware/Kano-MDM-information/blob/main/Enterprise0.png" align="right" width="600" hight="400" >
- <br>
+ <img src="https://github.com/Kanosoftware/Kano-MDM-information/blob/main/Enterprise0.png" align="right" width="600" hight="400" >
+ <p>Kano MDM supports 4 foundational implementation styles:
  <br>
 <lu>
 <li>Registry</li>  
