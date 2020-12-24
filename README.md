@@ -16,18 +16,18 @@
 
 <h2 align="center">Why Kano MDM</h2>
 <lu>
-<strong>1. Integration</strong>
-Kano  MDM  can be integrated with any applications and data sources inside and outside of the organization.
-<strong>2. Performance</strong>
-Kano MDM is based on InterSystems Data Platforms that can handle big data and has proven performance, reliability, and scalability.
-<strong>3. Security</strong>
-Permissions for record access and modification are fully customizable up to and including Row-Level and Column-Level security. Kano MDM supports data versioning to ensure none of the data is lost or damaged.
-<strong>4. Flexibility</strong>
-Kano MDM combines the support of multiple master data domains, implementation styles with customizable and extensible workflows, and integration components.
-<strong>5. Implementation styles</strong>
-Kano  MDM  supports all classic implementation styles. Hybrid implementation styles are also possible to fulfill specific business needs.
-<strong> 6. Cost-efficiency</strong>
-Being a unified platform for master data management, Kano MDM dramatically reduces implementation and maintenance costs.
+<p><strong>1. Integration</strong></p>
+<p>Kano  MDM  can be integrated with any applications and data sources inside and outside of the organization.</p>
+<p><strong>2. Performance</strong></p>
+<p>Kano MDM is based on InterSystems Data Platforms that can handle big data and has proven performance, reliability, and scalability.</p>
+<p><strong>3. Security</strong></p>
+<p>Permissions for record access and modification are fully customizable up to and including Row-Level and Column-Level security. Kano MDM supports data versioning to ensure none of the data is lost or damaged.</p>
+<p><strong>4. Flexibility</strong></p>
+<p>Kano MDM combines the support of multiple master data domains, implementation styles with customizable and extensible workflows, and integration components.</p>
+<p><strong>5. Implementation styles</strong></p>
+<p>Kano  MDM  supports all classic implementation styles. Hybrid implementation styles are also possible to fulfill specific business needs.</p>
+<p><strong> 6. Cost-efficiency</strong></p>
+<p>Being a unified platform for master data management, Kano MDM dramatically reduces implementation and maintenance costs.</p>
 
 <h2 align="center">Kano MDM features</h2>
 Kano MDM is an efficient master data management solution with a complete set of features.
